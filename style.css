@@ -1,0 +1,10 @@
+
+.fullscreen-image {
+    width: 100%; /* Sayfanın genişliğini kapla */
+    height: 600px; /* Yüksekliği orantılı ayarla */
+}
+.body {
+    background: rgba(255, 255, 255, 0.9) url('img/cartoon.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
